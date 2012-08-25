@@ -13,8 +13,8 @@ Classes:
 
 """
 
-__author__ = "Petr Morávek (xificurk@gmail.com)"
-__copyright__ = "Copyright (C) 2010 Petr Morávek"
+__author__ = "Petr Morávek (petr@pada.cz)"
+__copyright__ = "Copyright (C) 2010-2012 Petr Morávek"
 __license__ = "LGPL 3.0"
 
 __version__ = "0.5.0"
